@@ -3,7 +3,7 @@
 
 
 
-$im = new Imagick(dirname(__FILE__)."/Mundial_face.psd");
+$im = new Imagick(dirname(__FILE__)."/jugadores.psd");
 $i=0;
 
 
